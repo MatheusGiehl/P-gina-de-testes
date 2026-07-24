@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #00FFFF;
+    padding: 50px;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    margin: auto;
+    margin-top: 25vh;
+    border-radius: 8px;
+    box-shadow: 10px 12px 15px #0000FF;
+}
+
+input, button {
+    width: 80%;
+    height: 30px;
+    font-weight: bold;
+    border-radius: 3px;
+    border: none;
+    text-align: center;
+    margin-top: auto;
+}
+
+button {
+    margin-bottom: 30%;
+    margin-top: 5%;
+}
