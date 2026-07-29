@@ -1,6 +1,7 @@
-const submit = document.getElementById('submit')
+
 const item = document.getElementById('item')
+const out = document.getElementById('out')
 
 function mostrarItem() {
-    p.innerHtml(item.textContent)
+    out.textContent(item.textContent)
 }
