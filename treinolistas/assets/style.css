@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #CCC;
+}
+
+.text {
+    color : blue ;
+    background-color: aqua;
+    display: block;
+}
+
+#adicionar {
+    background-color: red;
+    margin-top: 20px;
+}
