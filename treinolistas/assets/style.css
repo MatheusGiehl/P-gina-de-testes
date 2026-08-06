@@ -6,6 +6,11 @@
 
 .container {
     background-color: #CCC;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+    
 }
 
 .text {
@@ -17,4 +22,5 @@
 #adicionar {
     background-color: red;
     margin-top: 20px;
+    display: block;
 }
