@@ -17,6 +17,8 @@
     color : blue ;
     background-color: aqua;
     display: block;
+    width: 60px;
+    height: 30px;
 }
 
 #adicionar {
